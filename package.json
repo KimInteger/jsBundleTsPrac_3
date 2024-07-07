@@ -1,0 +1,19 @@
+{
+  "name": "jsbundletsprac_3",
+  "version": "1.0.0",
+  "description": "\"하루 한번 개발환경 설정 연습\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KimInteger/jsBundleTsPrac_3.git"
+  },
+  "author": "KimInteger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KimInteger/jsBundleTsPrac_3/issues"
+  },
+  "homepage": "https://github.com/KimInteger/jsBundleTsPrac_3#readme"
+}
