@@ -44,14 +44,14 @@ module.exports = {
   },
   mode: 'development',
   resolve: {
-    extesnsions: ['.ts', '.js'],
+    extensions: ['.ts', '.js'],
   },
   module: {
     rules: [
       {
         test: /\.ts$/,
         use: 'babel-loader',
-        exclude: 'node_modules',
+        exclude: /node_modules/,
       },
     ],
   },
